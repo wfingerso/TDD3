@@ -1,0 +1,5 @@
+[
+  "TestInvoice.py::test_CanCalculateTotalDiscount",
+  "TestInvoice.py::test_CanCalculateTotalImpurePrice",
+  "TestInvoice.py::test_CanCalculateTotalPurePrice"
+]
